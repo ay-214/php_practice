@@ -1,4 +1,5 @@
 <?php
+/*PHP/Laravel 02 課題 */
 echo 'hello php！';
 
 $a = 3;

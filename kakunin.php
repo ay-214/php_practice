@@ -1,4 +1,5 @@
 <?php
+/*課題 考察・仮入力用ファイル */
 $str = "<h1> hello World!</h1>";
 echo "Today" .$str;
 echo ("\n");
